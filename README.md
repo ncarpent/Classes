@@ -1,2 +1,2 @@
 # Classes
-Divers Classes en python
+Diverses Classes en python
